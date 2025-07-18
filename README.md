@@ -100,10 +100,8 @@ docker pull borgx/flask-login-app
 
 > Add your screenshots inside an `images/` folder and reference them like this:
 
-```markdown
 ![Local deployment Screenshot](images/localhost.png)
 ![Cloud deployment Screenshot](images/ec2.png)
-```
 
 Make sure the paths are correct and the images are pushed to GitHub.
 
