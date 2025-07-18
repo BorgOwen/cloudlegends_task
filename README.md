@@ -16,7 +16,6 @@ This is a simple Flask web application that includes a basic user **login** func
 ---
 
 
-```
 ## 🏗️ Folder Structure
 
 ```bash
@@ -27,6 +26,7 @@ flask-login-app/
 └── templates/
 ├── login.html
 
+````
 ---
 
 ## 🚀 Getting Started
