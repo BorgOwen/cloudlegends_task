@@ -103,6 +103,13 @@ docker pull borgx/flask-login-app
 ![Local deployment Screenshot](images/localhost.png)
 ![Cloud deployment Screenshot](images/ec2.png)
 
+![Local deployment Screenshot](/cloudlegends_task/images/localhost.png)
+![Cloud deployment Screenshot](/cloudlegends_task/images/ec2.png)
+
+![Local deployment Screenshot](./images/localhost.PNG)
+![Cloud deployment Screenshot](./images/ec2.PNG)
+
+
 Make sure the paths are correct and the images are pushed to GitHub.
 
 ---
