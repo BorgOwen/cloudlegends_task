@@ -98,13 +98,9 @@ docker pull borgx/flask-login-app
 
 ## 🖼️ Screenshots
 
-> Add your screenshots inside an `images/` folder and reference them like this:
 
 ![Local deployment Screenshot](./images/localhost.PNG)
 ![Cloud deployment Screenshot](./images/ec2.PNG)
-
-
-Make sure the paths are correct and the images are pushed to GitHub.
 
 ---
 
@@ -113,5 +109,3 @@ Make sure the paths are correct and the images are pushed to GitHub.
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute it as you like.
 
 ---
-
-Let me know if you want this turned into a GitHub page or if you want to add a registration page and store login credentials.
