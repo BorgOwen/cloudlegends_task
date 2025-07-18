@@ -5,6 +5,9 @@
 
 This is a simple Flask web application that includes a basic user **login** functionality. It's fully containerized with Docker, making it easy to run locally or deploy to the cloud (e.g., AWS EC2 with Terraform).
 
+![Local deployment Screenshot](/cloudlegends_task/localhost.PNG)
+![Cloud deployment Screenshot](/cloudlegends_task/ec2.PNG)
+
 ---
 
 ## 🌟 Features
@@ -14,7 +17,6 @@ This is a simple Flask web application that includes a basic user **login** func
 - ☁️ Ready for cloud deployment (e.g., AWS EC2 via Terraform)
 
 ---
-
 
 ## 🏗️ Folder Structure
 
